@@ -1,4 +1,4 @@
-# Web Scraping [and Screenshot Project](https://abrahamjuliot.github.io/creepjs/)
+# Web Scraping (https://abrahamjuliot.github.io/creepjs/)
 
 This project consists of a Python script that performs web scraping using an API request and takes a screenshot of a web page using Selenium. It then generates a PDF of the webpage and saves the scraped data in JSON format.
 
